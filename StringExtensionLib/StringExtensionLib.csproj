@@ -1,16 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-  <TargetFramework>net7.0</TargetFramework>
-  <ImplicitUsings>enable</ImplicitUsings>
-  <Nullable>enable</Nullable>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
 
-  <!-- 🔽 Add these lines -->
-  <Version>1.0.3</Version>
-  <PackageId>StringExtensionLib</PackageId>
-  <Authors>Ritika</Authors>
-  <Description>String extension methods for .NET apps</Description>
-</PropertyGroup>
-
+    <!-- Add this metadata -->
+    <Version>1.0.4</Version>
+    <PackageId>StringExtensionLib</PackageId>
+    <Authors>Sujan</Authors>
+    <Description>String extension methods</Description>
+  </PropertyGroup>
 
 </Project>

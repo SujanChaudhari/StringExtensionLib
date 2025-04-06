@@ -1,4 +1,25 @@
 ﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StringExtensionLib FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringExtensionLib/Class1.cs">
+    <Files>
+      <File FileName="StringExtensionLib/Class1.cs" Line="14" Column="1" />
+      <File FileName="StringExtensionLib/StringExtensionLib.csproj" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringExtensionLib" expanded="True">
+            <Node name="StringExtensionLib">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

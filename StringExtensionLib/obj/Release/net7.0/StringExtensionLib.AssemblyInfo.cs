@@ -11,10 +11,10 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sujan")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("String extension methods")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.4.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4+2e934a23fbc248ef79c0ec9d61ed45ef416af49e")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringExtensionLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringExtensionLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.4.0")]

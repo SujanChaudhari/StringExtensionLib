@@ -1,0 +1,12 @@
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/bin/Release/net7.0/StringExtensionLib.deps.json
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/bin/Release/net7.0/StringExtensionLib.dll
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/bin/Release/net7.0/StringExtensionLib.pdb
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/StringExtensionLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/StringExtensionLib.AssemblyInfoInputs.cache
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/StringExtensionLib.AssemblyInfo.cs
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/StringExtensionLib.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/StringExtensionLib.sourcelink.json
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/StringExtensionLib.dll
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/refint/StringExtensionLib.dll
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/StringExtensionLib.pdb
+/Users/mac/Documents/StringExtensionLib/StringExtensionLib/obj/Release/net7.0/ref/StringExtensionLib.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StringExtensionLib/1.0.4": {
+        "runtime": {
+          "StringExtensionLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringExtensionLib/1.0.4": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
